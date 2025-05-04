@@ -1,4 +1,4 @@
 node_modules/
 .env
 package-lock.json
-pool.js
+db/pool.js
